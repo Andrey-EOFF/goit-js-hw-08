@@ -31,3 +31,4 @@ new SimpleLightbox('.gallery a', {
 });
 
 console.log(galleryItems);
+console.log('galsdffsdfleryItems');
