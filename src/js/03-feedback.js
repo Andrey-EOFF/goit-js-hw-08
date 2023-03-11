@@ -1,4 +1,4 @@
-import throttle from './throttle';
+import throttle from './libraries';
 import { STORAGE_KEY } from './constants';
 import { refs } from './refs';
 
